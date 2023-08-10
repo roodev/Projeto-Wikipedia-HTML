@@ -41,3 +41,18 @@ a { color:blue; text-decoration: none;}
 figure {
   text-align: center;
 }
+
+iframe{
+  width: 850px;
+  height: 400px;
+}
+
+@media screen and (max-width: 1366px){
+  
+  iframe {
+    width: 750px;
+    
+    height: 400px;
+  }
+  
+}
